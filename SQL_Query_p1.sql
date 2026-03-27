@@ -1,7 +1,10 @@
 -- SQL Retail sales analysis -- p1
 
---create table ---
+--create database ---
+CREATE DATABASE SQL_project_p1;
 
+
+--create table ---
 CREATE TABLE retail_sales 
        (
                 transaction_id INT PRIMARY KEY,	
